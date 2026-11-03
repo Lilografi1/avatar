@@ -9,6 +9,16 @@ div{
     text-align: center;
 
 }
-.card-title{
+.card-title , footer{
      background-color: rgb(182, 17, 66);
+}
+
+img{
+    height: 250px;
+    width: 500px;
+}
+
+footer{
+    text-align: center;
+    padding: 18px;
 }
