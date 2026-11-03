@@ -1,0 +1,14 @@
+body{
+    margin: 0%;
+}
+
+div{
+    border: 1px solid red;
+}
+.title{
+    text-align: center;
+
+}
+.card-title{
+     background-color: rgb(182, 17, 66);
+}
